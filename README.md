@@ -1,5 +1,5 @@
 **ABOUT @adrianaluisadc:**
-- :dart: Self-taught Aspiring Front-end Developer
+- :dart: Self-taught Front-end Developer
 - :books: Novelist / Writer
 - :art: Digital Artist
 
