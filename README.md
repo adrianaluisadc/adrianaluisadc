@@ -1,7 +1,11 @@
-**ABOUT @adrianaluisadc:**
-- :dart: Self-taught Front-end Developer
-- :books: Novelist / Writer
-- :art: Digital Artist
+
+<p align="center">
+<b>@adrianaluisadc:</b>
+ <br>
+ <br>
+ :dart: Self-taught Front-end Developer :books: Novelist / Writer :art: Digital Artist
+
+</p>
 
 <br>
 <p align="center">
@@ -15,7 +19,7 @@
  <img width="150px"src="https://www.transparentpng.com/thumb/flower/flowers-photo-png-34.png">
 </p>
 
-
+<br>
 
 <p align="center">
  <b>Tools and Technologies</b>
