@@ -10,11 +10,7 @@
   </p>
 
 <p align="center">
- <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjEwMzEtMDE2LnBuZw.png?s=36WJx6E6xcTbnZ4xl-oCUzl27JQsh6vLD5y2fQmZsZk">
+ <img width="150px"src="https://www.transparentpng.com/thumb/flower/flowers-photo-png-34.png">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianaluisadc&layout=compact&theme=radical&custom_title=Languages" /> 
-  <img src="">
+ <img width="150px"src="https://www.transparentpng.com/thumb/flower/flowers-photo-png-34.png">
 </p>
-  
-
-
-
