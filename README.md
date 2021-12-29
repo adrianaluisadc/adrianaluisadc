@@ -1,7 +1,7 @@
 
 <p align="center">
  <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
- <img width="300px" src="adc-logo-no-bg.svg"> 
+ <img width="200px" src="adc-logo-no-bg.svg"> 
  <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
  
 
