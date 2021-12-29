@@ -3,17 +3,13 @@
  <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
  <img width="200px" src="adc-logo-no-bg.svg"> 
  <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
- 
+ </p>
 
- 
- <br>
- 
- 
+ <p align="center">
 <b>@adrianaluisadc:</b>
  <br>
  <br>
  :dart: Self-taught Front-end Developer :books: Novelist / Writer :art: Digital Artist
-
 </p>
 
 <br>
