@@ -32,7 +32,7 @@
  <br>
  
  <img width="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
- <img width="60px" src="https://lh3.googleusercontent.com/proxy/Vdq6EIVWseEqwyAKq9Kc5l575TT-mj3DFdJwV2I-w5t2L2cFMfAhsGVyJj4ZqOm18UN6MMEshxax1X-wkirbZ0AV7Ppufq-7zmIK0P6uYeP415I-5g6xIE6sSg"/>
+ <img width="60px" src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-cc-icon-png-logo-2.png"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/2048px-Inkscape_Logo.svg.png"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
  <img width="130px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"/>
