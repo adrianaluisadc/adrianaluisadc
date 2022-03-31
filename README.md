@@ -9,7 +9,7 @@
 <b>@adrianaluisadc:</b>
  <br>
  <br>
- :dart: Self-taught Front-end Developer :books: Novelist / Writer :art: Digital Artist
+ :gem: Full-stack Designer :dart: Self-taught Front-end Developer :books: Novelist / Writer :art: Digital Artist
 </p>
 
 <br>
@@ -43,6 +43,9 @@
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/MediBang_Paint_logo.png"/>
  <img width="60px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
+ <img width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+ <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
+ <img width="60px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />
  
  <br>
  <br>
