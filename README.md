@@ -9,7 +9,7 @@
 <b>@adrianaluisadc:</b>
  <br>
  <br>
- :gem: Full-stack Designer :dart: Self-taught Front-end Developer :books: Novelist / Writer :art: Digital Artist
+ :gem: UX Product Designer :dart: Self-taught Front-end Developer :books: Novelist / Writer :art: Digital Artist
 </p>
 
 <br>
