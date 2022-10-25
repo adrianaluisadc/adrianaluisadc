@@ -62,8 +62,6 @@
  <b>Account Links</b>
  <br>
  <br>
- <a href="https://www.wattpad.com/user/ZeroOxygen">
- <img width="60px" alt="Wattpad Logo" src="https://www.wattpad.com/brand/placeholder/w_placeholder-b82c454c177d04c66a13c13cff05b539.png" /></a>
  
  <a href="https://www.linkedin.com/in/adriana-dela-cruz-0076b021b/">
  <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
