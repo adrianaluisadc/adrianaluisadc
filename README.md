@@ -4,7 +4,7 @@
 <b>@adrianaluisadc:</b>
  <br>
  <br>
- :gem: UX Product Designer :books: Novelist / Writer :art: Digital Artist
+ :gem: UX Designer :books: Novelist / Writer :art: Digital Artist
 </p>
 
 <br>
