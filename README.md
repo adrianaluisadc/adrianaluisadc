@@ -1,66 +1,20 @@
+<h1 align="center">Hi 👋, I'm Adriana Luisa</h1>
+<h3 align="center">A UX Designer, Novelist, & Product Thinker</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianaluisadc&label=Profile%20views&color=0e75b6&style=flat" alt="adrianaluisadc" /> </p>
 
- <p align="center">
-<b>@adrianaluisadc:</b>
- <br>
- <br>
- :gem: UX Designer :books: Novelist / Writer :art: Digital Artist
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianaluisadc" alt="adrianaluisadc" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/adrianadelacruz.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adrianadelacruz.com" height="30" width="40" /></a>
+<a href="https://dribbble.com/adrianaluisadc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adrianaluisadc" height="30" width="40" /></a>
+<a href="https://www.behance.net/adrianaluisadc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adrianaluisadc" height="30" width="40" /></a>
 </p>
 
-<br>
-<p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adrianaluisadc&show_icons=true&theme=radical&count_private=true&custom_title=@adrianaluisadc "> 
- <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianaluisadc&theme=radical" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p align="center">
- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianaluisadc&layout=compact&theme=radical&custom_title=Languages" /> 
- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
- <br>
- <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=adrianaluisadc&theme=redical">
- 
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianaluisadc&show_icons=true&locale=en&layout=compact" alt="adrianaluisadc" /></p>
 
-<br>
-
-<p align="center">
- <b>Tools and Technologies</b>
- <br>
- <br>
- 
- <img width="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
- <img width="60px" src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-cc-icon-png-logo-2.png"/>
- <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/2048px-Inkscape_Logo.svg.png"/>
- <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
- <img width="130px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"/>
- <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/MediBang_Paint_logo.png"/>
- <img width="60px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"/>
- <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
- <img width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
- <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
- <img width="60px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />
- 
- <br>
- <br>
- <b>Affiliated Organizations and Communities</b>
- <br>
- <br>
- 
- <img width="90px" alt="Github Education Community" src="https://education.github.com/assets/campus_program-9372374f8cd435dafb8e725cb67ee73b587af7a9b2f176dfec968afe3b05338c.png" />
- <img width="90px"  alt="EddieHub Community" src="https://avatars.githubusercontent.com/u/66388388?s=280&v=4" />
- <img width="90px" alt="SurPath Hub Community"src="https://raw.githubusercontent.com/SurPathHub/brand-assets/main/Resources/SurPath%20Hub%20Logos/SPH_transparent.png" />
- 
- <br>
- <br>
- <b>Account Links</b>
- <br>
- <br>
- 
- <a href="https://www.linkedin.com/in/adriana-dela-cruz-0076b021b/">
- <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-</p>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianaluisadc&" alt="adrianaluisadc" /></p>
